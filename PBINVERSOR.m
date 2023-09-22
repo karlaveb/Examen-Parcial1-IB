@@ -1,0 +1,5 @@
+H = tf([-15170.45], [1 5681.82])
+pole(H)
+zero(H)
+pzmap(H)
+bode(H)
